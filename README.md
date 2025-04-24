@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chaudharyakshit
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Springsboot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me akshtduhn@gmail.com
 - 😄 Pronouns: ...
